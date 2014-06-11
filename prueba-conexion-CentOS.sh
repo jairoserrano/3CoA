@@ -1,4 +1,8 @@
 #!/bin/bash
+# Desarrollado por:
+# Jairo Enrique Serrano Castañeda (jairo@utbvirtual.edu.co)
+# Andres Armando Sanchez Martin (computacion@renata.edu.co)
+# para uso de la Comunidad Colombiana de Computacion Avanzada - 3CoA   (3CoA@renata.edu.co)
 echo ""
 echo "*****************************************************************************"
 echo "* Inicio el script de ejecucion del protocolo de pruebas de conexion - 3CoA *"
@@ -77,7 +81,3 @@ echo "**************************************************************************
 echo "* Termino el script de ejecucion del protocolo de pruebas de conexion - 3CoA *"
 echo "******************************************************************************"
 echo ""
-#desarrollado por:
-#Jairo Enrique Serrano Castañeda (jairo@utbvirtual.edu.co)
-#Andres Armando Sanchez Martin (computacion@renata.edu.co)
-#para uso de la Comunidad Colombiana de Computacion Avanzada - 3CoA  (3CoA@renata.edu.co)
