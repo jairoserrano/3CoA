@@ -17,7 +17,8 @@ ce=(	"gc1-ce.renata.edu.co" "186.113.12.24"
 	"gc1-ce.univalle.edu.co" "181.118.153.207" 
 	"c-head.ucaldas.edu.co" "200.21.104.31" 
 	"gc1.javerianacali.edu.co" "181.118.149.209" 
-	"gc1-ce.uniatlantico.edu.co" "190.144.252.112"
+	"gc1-ce.uniatlantico.edu.co" "179.0.29.112"
+	"grid.unitecnologica.edu.co" "190.26.217.240"
 )
 #lista de puertos a probar en las instituciones destino
 puertos=("22" "53" "80" "88" "389" "443" "445" "464" "636" "943" "1194" "2119" "2811" "3268" "3269" "8080" "8443" "8649" "9443" "9000" "9999" "20000" "22000" "23000" "25000")
