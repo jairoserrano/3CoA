@@ -9,7 +9,10 @@ echo "* Inicio el script de ejecucion del protocolo de pruebas de conexion - 3Co
 echo "*****************************************************************************"
 echo ""
 #aplicaciones necesaria para ejecutar el protocolo de pruebas
-apt-get -y install nmap nc tracepath
+# nc esta incluido en netcat-openbsd
+# tracepath esta incluido en iputils-tracepath
+apt-get -y install nmap netcat-openbsd iputils-tracepath
+
 #lista de nombres de dominio e IPs de las instituciones destino
 ce=(	"gc1-ce.renata.edu.co" "186.113.12.24" 
 	"gc.ucatolica.edu.co" "200.2.66.32" 
